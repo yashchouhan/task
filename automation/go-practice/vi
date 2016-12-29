@@ -1,0 +1,12 @@
+package condition
+
+import "fmt"
+func main{
+
+age:=18
+
+if age>=18 { fmt.println("You can drive") }
+else if  age<18  { fmt.println("You can't drive") }
+
+
+}

@@ -1,0 +1,7 @@
+---
+applications:
+- name: demoapp
+  memory: 64M
+  instances: 1
+  buildpack: go_buildpack
+  command: demoapp
